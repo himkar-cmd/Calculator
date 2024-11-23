@@ -6,6 +6,9 @@ This is a simple calculator application built using HTML, CSS, and JavaScript. I
 Features
 Addition of two numbers
 Subtraction of two numbers
+Multiply two number 
+divide two no 
+and one "R" for fun generate random number
 Responsive design for various screen sizes
 Getting Started
 Prerequisites
