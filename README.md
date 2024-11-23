@@ -18,7 +18,7 @@ bash
 Verify
 Edit
 Copy code
-git clone https://github.com/yourusername/simple-calculatorhttps://github.com/himkar-cmd/Calculator.git
+git clone https://github.com/himkar-cmd/Calculator
 Navigate to the project directory:
 
 bash
